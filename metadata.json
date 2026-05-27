@@ -1,0 +1,6 @@
+{
+  "name": "أنا مسلم",
+  "description": "دليل المسلم الشامل: مواقيت الصلاة، الأذان، القبلة، القرآن الكريم، ومسبحة التسبيح التفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
